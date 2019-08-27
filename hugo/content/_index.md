@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home
 
 ---
 Hello world! I'm `content/_index.md`
